@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>ee578583-8fd3-428a-8b42-7c76f6812da1</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="mongocsharpdriver" Version="2.11.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EliteIO.Data.Models\EliteIO.Data.Models.csproj" />
+    <ProjectReference Include="..\EliteIO.Utilities\EliteIO.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

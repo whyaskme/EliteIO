@@ -1,0 +1,16 @@
+﻿@page
+@model EliteIO.Apps.Website.Pages.Forms.AddAddressModel
+@{
+    ViewData["Title"] = "Register New User";
+}
+
+<h1>Register New User</h1>
+
+<form method="post">
+    <input type="text" asp-for="StreetAddress1" placeholder="Address 1" />
+    <input type="text" asp-for="StreetAddress2" placeholder="Address 2" />
+    <input type="text" asp-for="City" placeholder="City" />
+    <input type="text" asp-for="State" placeholder="State" />
+    <input type="text" asp-for="ZipCode" placeholder="Zip Code" />
+    <button type="submit">Submit</button>
+</form>

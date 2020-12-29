@@ -1,0 +1,15 @@
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\bin\Debug\netcoreapp3.1\snappy32.dll
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\bin\Debug\netcoreapp3.1\snappy64.dll
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\bin\Debug\netcoreapp3.1\libzstd.dll
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\bin\Debug\netcoreapp3.1\EliteIO.Data.Models.deps.json
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\bin\Debug\netcoreapp3.1\EliteIO.Data.Models.dll
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\bin\Debug\netcoreapp3.1\EliteIO.Data.Models.pdb
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\bin\Debug\netcoreapp3.1\EliteIO.Utilities.dll
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\bin\Debug\netcoreapp3.1\EliteIO.Utilities.pdb
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\obj\Debug\netcoreapp3.1\EliteIO.Data.Models.csprojAssemblyReference.cache
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\obj\Debug\netcoreapp3.1\EliteIO.Data.Models.AssemblyInfoInputs.cache
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\obj\Debug\netcoreapp3.1\EliteIO.Data.Models.AssemblyInfo.cs
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\obj\Debug\netcoreapp3.1\EliteIO.Data.Models.csproj.CoreCompileInputs.cache
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\obj\Debug\netcoreapp3.1\EliteIO.Data.Models.csproj.CopyComplete
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\obj\Debug\netcoreapp3.1\EliteIO.Data.Models.dll
+C:\Joes Data\Projects\1 GitHub\whyaskme\EliteIO\EliteIO.Data.Models\obj\Debug\netcoreapp3.1\EliteIO.Data.Models.pdb
